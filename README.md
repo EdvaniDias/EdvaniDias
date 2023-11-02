@@ -1,7 +1,7 @@
 ## Oi, meu nome é Edvaní 👋
 Sou uma estudante de programação buscando novas conquistas na área que sempre amei. Estou em migrando de carreira e em constante mudança para enfim seguir o meu destino que é trabalhar com tecnologia, trabalhar com programação!! Seguindo o destino com sucesso!!
 
-- 👩🏾‍🎓 **Estudante** na [Cubos Academy](https://cubos.academy/)
+- 👩🏾‍🎓 **Estudante** de Desenvolvimento de Software FullStack na [Cubos Academy](https://cubos.academy/)
 - 🐶 Super A-P-A-I-X-O-N-A-D-A por cachorros!
 - 💻 Amante da tecnologia
 - 🎯 Atualmente focada em:
