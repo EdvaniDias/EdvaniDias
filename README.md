@@ -19,3 +19,14 @@ Sou uma estudante de programação buscando novas conquistas na área que sempre
 &nbsp;<a href="https://www.instagram.com/edvanidias33/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+&nbsp;<a href="mailto:contato@edvanidias">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>&nbsp;
+
+##
+
+<div>
+<a href="https://github.com/EdvaniDias">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaniDias&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EdvaniDias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
