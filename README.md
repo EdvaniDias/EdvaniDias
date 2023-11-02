@@ -3,7 +3,7 @@ Sou uma estudante de programação buscando novas conquistas na área que sempre
 
 - 👩🏾‍🎓 **Estudante** na [Cubos Academy](https://cubos.academy/)
 - 🐶 Super A-P-A-I-X-O-N-A-D-A por cachorros!
-- 💻 Apaixonada por tecnologia
+- 💻 Amante da tecnologia
 - 🎯 Atualmente focada em:
 <div style = "display: inline">
   &nbsp;&nbsp;<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
