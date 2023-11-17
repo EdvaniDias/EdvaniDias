@@ -28,8 +28,7 @@ I'm a programming student looking for new achievements in the area I've always l
   &nbsp;&nbsp;<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
 </div>
-&nbsp;
- &nbsp;
+
 
 #### Workstation Tools:
 
