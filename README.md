@@ -1,17 +1,10 @@
-## Oi, meu nome é Edvaní 👋
+## Hi, my name is Edvaní 👋
 
-Sou uma estudante de programação buscando novas conquistas na área que sempre amei. Estou em migrando de carreira e em constante mudança para enfim seguir o meu destino que é trabalhar com tecnologia, trabalhar com programação!! Seguindo o destino com sucesso!!
+I'm a programming student looking for new achievements in the area I've always loved. I'm changing my career and constantly changing to finally follow my destiny, which is working with technology, working with programming!! Successfully following destiny!!
 
-- 👩🏾‍🎓 **Estudante** de Desenvolvimento de Software FullStack na [Cubos Academy](https://cubos.academy/)
-- 🐶 Super A-P-A-I-X-O-N-A-D-A por cachorros!
-- 💻 Amante da tecnologia
-- 🎯 Atualmente focada em:
-<div style = "display: inline">
-  &nbsp;&nbsp;<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
-</div>
-&nbsp;
- &nbsp;
+- 👩🏾‍🎓 **Student** of FullStack Software Development at [Cubos Academy](https://cubos.academy/)
+- 🐶 Super P-A-S-S-I-O-N-A-T-E about dogs!
+- 💻 Technology lover
 
  ##
 
@@ -22,13 +15,30 @@ Sou uma estudante de programação buscando novas conquistas na área que sempre
 
 ## My Skills
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
+
 #### Main Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
+#### Studying in this moment:
 
-### Você também pode me encontrar em:
+<div style = "display: inline">
+  &nbsp;&nbsp;<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
+</div>
+&nbsp;
+ &nbsp;
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+
+&nbsp;
+&nbsp;
+
+### Contacts:
 &nbsp;<a href="https://www.linkedin.com/in/edvani-dias-oliveira/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
