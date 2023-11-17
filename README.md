@@ -27,6 +27,6 @@ Sou uma estudante de programação buscando novas conquistas na área que sempre
 
 <div>
   <a href="https://github.com/EdvaniDias">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EdvaniDias&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EdvaniDias&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaniDias&theme=radical&mode=weekly"/>
+  <img width=40% align="center" src="https://github-readme-stats-git-main-EdvaniDias.vercel.app/api/top-langs/?username=EdvaniDias&show_icons=true&theme=radical&layout=compact"/>
 </div>
