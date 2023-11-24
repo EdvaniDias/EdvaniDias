@@ -8,10 +8,10 @@ I'm a programming student looking for new achievements in the area I've always l
 
  ##
 
-<div align="center" style="margin-bottom:100px">
-  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=EdvaniDias&show_icons=true&theme=radical"/>
-  <img width=40% align="center" src="https://github-readme-stats-ruddy-rho.vercel.app/api/top-langs/?username=EdvaniDias&show_icons=true&theme=radical&layout=compact"/>&nbsp;
-</div>&nbsp;
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EdvaniDias&theme=radical&mode=weekly" />
+<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaniDias&layout=compact&theme=radical" />
+ </div>&nbsp;
 
 
 ## My Skills
