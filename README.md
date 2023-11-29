@@ -6,6 +6,15 @@ I'm a programming student looking for new achievements in the area I've always l
 - 🐶 Super P-A-S-S-I-O-N-A-T-E about dogs!
 - 💻 Technology lover
 
+&nbsp;
+&nbsp;
+
+Sou estudante de programação em busca de novas conquistas na área que sempre amei. Estou mudando de carreira e mudando constantemente para finalmente seguir meu destino que é trabalhar com tecnologia, trabalhar com programação!! Seguindo o destino com sucesso!!
+
+- 👩🏾‍🎓 **Estudante** de Desenvolvimento de Software FullStack na [Cubos Academy](https://cubos.academy/)
+- 🐶 Super A-P-A-I-X-O-N-A-D-A por cachoros!
+- 💻 Amante de tecnologia
+
  ##
 
 <div  align="center" style="margin-bottom:100px">
