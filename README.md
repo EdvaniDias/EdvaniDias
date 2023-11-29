@@ -10,7 +10,7 @@ I'm a programming student looking for new achievements in the area I've always l
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EdvaniDias&theme=radical&mode=weekly" />
-<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaniDias&layout=compact&theme=radical" />
+<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaniDias&theme=radical" />
  </div>&nbsp;
 
 
