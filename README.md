@@ -18,7 +18,7 @@ Sou estudante de programação em busca de novas conquistas na área que sempre 
  ##
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EdvaniDias&layout=compact&langs_count=7&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EdvaniDias&theme=radical&mode=weekly" />
 <img width=40% align="center"  src="https://github-readme-stats-nine-taupe-59.vercel.app/api/top-langs/?username=EdvaniDias&theme=radical" />
  </div>&nbsp;
 
