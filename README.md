@@ -18,8 +18,8 @@ Sou estudante de programação em busca de novas conquistas na área que sempre 
  ##
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EdvaniDias&theme=radical&mode=weekly" />
-<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaniDias&theme=radical" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EdvaniDias&layout=compact&langs_count=7&theme=radical&mode=weekly" />
+<img width=40% align="center"  src="https://github-readme-stats-nine-taupe-59.vercel.app/api/top-langs/?username=EdvaniDias&theme=radical" />
  </div>&nbsp;
 
 
@@ -32,6 +32,7 @@ Sou estudante de programação em busca de novas conquistas na área que sempre 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)&nbsp;
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)&nbsp;
